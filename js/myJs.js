@@ -3,12 +3,12 @@ const textConfig = {
   text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
   text3: "Cậu yêu tớ có phải không nào ._.",
   text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
-  text5: "Cậu mơ à???",
+  text5: "Cậu mơ à??? (nhấn được cho 10 tỷ)",
   text6: "Yêu ơi là yêu <3",
   text7: "lí do cậu thích tớ đi :vvvv",
   text8: "Gửi cho tớ <3",
   text9: "Vì cậu đẹp try vlllll",
-  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
+  text10: "Tớ biết mà ^^ Yêu cậu 3000",
   text11:
     "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
   text12: "Okii lunn <3",
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://litmatchapp.com/share?partyid=62df8fcd6518c202f2dc0e2a&avatar=49aad340-82fd-11e9-9fe5-00163e02deb4&gender=girl&frameid=4f59662e-652f-11eb-a450-00163e04f111&partyname=h%E1%BB%99i%20gi%C3%A0%209x%20%E1%BA%BF%20t%E1%BB%AD%20t%E1%BA%BF&online=1&type=K%E1%BA%BFt%20b%E1%BA%A1n&partylitid=3495677271&inviter=49aad340-82fd-11e9-9fe5-00163e02deb4&source=copyLink&locale=VN";
+            window.location = "https://www.facebook.com/phamhoanghuutho";
           },
         });
       }

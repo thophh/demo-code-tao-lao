@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://facebook.com/phamhoanghuutho";
+            window.location = "https://litmatchapp.com/share?partyid=62df8fcd6518c202f2dc0e2a&avatar=49aad340-82fd-11e9-9fe5-00163e02deb4&gender=girl&frameid=4f59662e-652f-11eb-a450-00163e04f111&partyname=h%E1%BB%99i%20gi%C3%A0%209x%20%E1%BA%BF%20t%E1%BB%AD%20t%E1%BA%BF&online=1&type=K%E1%BA%BFt%20b%E1%BA%A1n&partylitid=3495677271&inviter=49aad340-82fd-11e9-9fe5-00163e02deb4&source=copyLink&locale=VN";
           },
         });
       }
